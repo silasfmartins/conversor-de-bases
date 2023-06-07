@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img alt="Portifólio" height="80" title="Portfolio" src="./public/favicon.ico" />
+  <img alt="Conversor de Bases" height="80" title="Conversor de Bases" src="./public/favicon.png" />
 </h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/portfolio">
+  <img alt="License" src="https://img.shields.io/github/license/silasfmartins/conversor-de-bases">
 </p>
 
 
 ## 💻 Projeto
-Site que concentra todos os meus projetos.
+Esta aplicação é um conversor de bases (decimal, octal, hexadecimal e binário).
 
 ## 🔃 Requisitos para utilizar
 
@@ -23,7 +23,7 @@ Site que concentra todos os meus projetos.
 
 ## :hammer_and_wrench: Features 
 
--   [ ] É possível acessar meus repositórios e projetos.
+-   [ ] É fazer conversão de números para diferentes bases.
 
 
 ## 📲 Executando o projeto
@@ -45,18 +45,18 @@ Esse projeto não possui um sistema de versionamento.
 
 ## 🆙 Projeto no ar
 
-É possível acessar a aplicação através da URL: https://silasmartins.vercel.app/ .
+É possível acessar a aplicação através da URL: https://conversor-de-bases-blond.vercel.app/ .
 
 ## 👨‍💻 Contribuir / Contributing
 
-Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/portfolio/blob/master/Contributing.md)
+Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/conversor-de-bases/blob/master/Contributing.md)
 
 ## 💿 Histórico / History
 
-Consulte [Releases](https://github.com/silasfmartins/portfolio/releases) para ter um changelog completo.
+Consulte [Releases](https://github.com/silasfmartins/conversor-de-bases/releases) para ter um changelog completo.
 
 ## 📄 Licença do Projeto/License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/portfolio/blob/main/LICENSE) © Silas Martins para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/conversor-de-bases/blob/main/LICENSE) © Silas Martins para mais detalhes.
 
 <br />
