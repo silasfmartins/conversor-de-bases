@@ -1,0 +1,23 @@
+{
+  "name": "Conversor de Bases Silas Martins",
+  "short_name": "Conversor Silas Martins",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "pt-BR",
+  "background_color": "#121215",
+  "theme_color": "#04d361",
+  "description": "Site que concentra um sistema de conversor de bases.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
