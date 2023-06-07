@@ -3,7 +3,7 @@ interface ValuesProps {
   value: string
 }
 
-export function Values({ title, value }: ValuesProps): JSX.Element {
+export function Values({ title, value }: ValuesProps) {
   return (
     <div className="flex items-center gap-2">
       <p className="text-2xl font-bold leading-relaxed">

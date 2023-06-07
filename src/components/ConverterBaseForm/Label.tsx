@@ -3,7 +3,7 @@ interface LabelProps {
   title: string
 }
 
-export function Label({ id, title }: LabelProps): JSX.Element {
+export function Label({ id, title }: LabelProps) {
   return (
     <label
       htmlFor={id}

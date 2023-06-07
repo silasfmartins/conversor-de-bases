@@ -6,7 +6,7 @@ import { Options } from './Options'
 import { Values } from './Values'
 import { Label } from './Label'
 
-export function ConverterBaseForm(): JSX.Element {
+export function ConverterBaseForm() {
   const [number, setNumber] = useState<string>('')
   const [base, setBase] = useState<string>('')
   const [numberBin, setNumberBin] = useState<string>('')
@@ -383,7 +383,7 @@ export function ConverterBaseForm(): JSX.Element {
       </select>
       <button
         type="submit"
-        className="font-alt inline-block rounded-full bg-green-500 px-5 py-3 text-sm uppercase leading-none text-white hover:bg-green-600 dark:text-black"
+        className="inline-block rounded-full bg-green-500 px-5 py-3 font-alt text-sm uppercase leading-none text-white hover:bg-green-600 dark:text-black"
       >
         Converter
       </button>

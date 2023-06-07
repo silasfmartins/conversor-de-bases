@@ -5,7 +5,7 @@ interface FooterIconProps {
   icon: ReactNode
 }
 
-export function FooterIcon({ link, icon }: FooterIconProps): JSX.Element {
+export function FooterIcon({ link, icon }: FooterIconProps) {
   return (
     <a
       className="text-black-900 h-8 w-8 cursor-pointer transition-colors duration-500 hover:text-green-500 dark:text-gray-100"
